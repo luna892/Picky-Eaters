@@ -25,10 +25,7 @@
 /// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 /// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 /// THE SOFTWARE.
-<<<<<<< HEAD
-=======
 
->>>>>>> 549f7b221c14578370d9165e9e9a4f4e4e76cecf
 import Foundation
 import SpriteKit
 
@@ -68,7 +65,3 @@ class GameOverScene: SKScene {
     fatalError("init(coder:) has not been implemented")
   }
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 549f7b221c14578370d9165e9e9a4f4e4e76cecf
